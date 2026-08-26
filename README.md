@@ -20,14 +20,6 @@
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elyfran02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Elyfran02" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyfran02&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas" />
-</div>
----
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
