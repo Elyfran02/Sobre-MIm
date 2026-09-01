@@ -9,6 +9,7 @@
 - 🔭 Atualmente trabalhando em **Melhorar o desenvolvimento proprio em Python e estou no quarto Período**
 - 🌱 Aprofundando meus conhecimentos em **Python e Banco de dados**
 - 📫 Como me encontrar: **elyfrananicacio@gmail.com**
+- fiz diversos cursos no Aranoua IFAM, como fundamentos de programação web, Gerenciamento ágil de projetos de software, aprendizagem de programação com robótica e python para ciência de dados.
 
 ---
 
